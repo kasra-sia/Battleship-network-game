@@ -1,0 +1,9 @@
+{
+  "username" : "c",
+  "password" : "c",
+  "score" : 0,
+  "winnings" : 0,
+  "loses" : 0,
+  "playerStatus" : "OFFLINE",
+  "id" : 2
+}
